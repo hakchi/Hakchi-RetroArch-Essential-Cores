@@ -1,10 +1,15 @@
-=== SNES9x2005 Core for RetroArch ===
+-----------------------
+Name: SNES9x2016 Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for Super Famicom / Super Nintendo
 
 Available executables and arguments to run Core:
 - /bin/snes <rom> <clover_args>
-- /bin/snes05 <rom> <clover_args>
+- /bin/snes16 <rom> <clover_args>
+- /bin/snes9x <rom> <clover_args>
 
 Core by libretro
 Template by pcm

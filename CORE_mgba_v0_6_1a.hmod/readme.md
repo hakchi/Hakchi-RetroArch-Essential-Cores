@@ -1,4 +1,8 @@
-=== mGBA Core for RetroArch ===
+-----------------------
+Name: mGBA Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for GB/GBC/Game Boy Advance
 

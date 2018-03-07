@@ -1,4 +1,8 @@
-=== Mupen64Plus Core for RetroArch ===
+-----------------------
+Name: Mupen64Plus Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for Nintendo 64
 

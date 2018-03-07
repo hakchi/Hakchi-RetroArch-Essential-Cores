@@ -1,4 +1,8 @@
-=== Mednafen PCE Fast Core for RetroArch ===
+-----------------------
+Name: Mednafen PCE Fast Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for PC-Engine/
 Turbografx-16/PCE-CD/Turbografx-CD

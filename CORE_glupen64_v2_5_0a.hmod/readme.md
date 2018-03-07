@@ -1,4 +1,8 @@
-=== GLupeN64 Core for RetroArch ===
+-----------------------
+Name: GLupeN64 Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for Nintendo 64
 

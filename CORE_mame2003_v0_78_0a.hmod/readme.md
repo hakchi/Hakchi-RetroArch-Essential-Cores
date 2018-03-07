@@ -1,4 +1,8 @@
-=== MAME2003 Core for RetroArch ===
+-----------------------
+Name: MAME2003 Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for MAME 2003
 

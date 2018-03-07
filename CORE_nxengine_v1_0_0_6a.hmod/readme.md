@@ -1,4 +1,8 @@
-=== Cave Story (NX Engine) Core for RetroArch ===
+-----------------------
+Name: Cave Story (NX Engine) Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for Cave Story Game Engine
 

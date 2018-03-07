@@ -1,10 +1,14 @@
-=== SNES9x2010 Core for RetroArch ===
+-----------------------
+Name: SNES9x2002 Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for Super Famicom / Super Nintendo
 
 Available executables and arguments to run Core:
 - /bin/snes <rom> <clover_args>
-- /bin/snes10 <rom> <clover_args>
+- /bin/snes02 <rom> <clover_args>
 
 Core by libretro
 Template by pcm

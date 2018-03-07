@@ -1,4 +1,8 @@
-=== MAME 2000 Core for RetroArch ===
+-----------------------
+Name: MAME 2000 Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for MAME 2000
 

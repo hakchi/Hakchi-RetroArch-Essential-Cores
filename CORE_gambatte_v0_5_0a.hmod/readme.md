@@ -1,4 +1,8 @@
-=== Gambatte Core for RetroArch ===
+-----------------------
+Name: Gambatte Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for Game Boy and Game Boy Color
 

@@ -1,4 +1,8 @@
-=== Genesis Plus GX Core for RetroArch ===
+-----------------------
+Name: Genesis Plus GX Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for Mega/Sega-CD, SG-1000, Sega Master System, Mega Drive / Genesis and Game Gear
 

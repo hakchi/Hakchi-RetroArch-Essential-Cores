@@ -1,4 +1,8 @@
-=== PicoDrive Core for RetroArch ===
+-----------------------
+Name: PicoDrive Core for RetroArch
+Creator: Libretro
+Category: RetroArch Cores
+-----------------------
 
 Module adds support for Sega CD, Master System, Mega Drive / Genesis, Game Gear and Sega 32X
 
